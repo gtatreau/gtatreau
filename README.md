@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently working on my MS in Data Science
+😄 Pronouns: she/they
 <!--
 **gtatreau/gtatreau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
